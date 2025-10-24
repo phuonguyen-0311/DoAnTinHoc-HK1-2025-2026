@@ -1,0 +1,24 @@
+C:\DocGhiFile\DocGhiFileCSV\DocGhiFileCSV\obj\Debug\DocGhiFileCSV.csproj.AssemblyReference.cache
+C:\DocGhiFile\DocGhiFileCSV\DocGhiFileCSV\obj\Debug\DocGhiFileCSV.Form1.resources
+C:\DocGhiFile\DocGhiFileCSV\DocGhiFileCSV\obj\Debug\DocGhiFileCSV.Properties.Resources.resources
+C:\DocGhiFile\DocGhiFileCSV\DocGhiFileCSV\obj\Debug\DocGhiFileCSV.csproj.GenerateResource.cache
+C:\DocGhiFile\DocGhiFileCSV\DocGhiFileCSV\obj\Debug\DocGhiFileCSV.csproj.CoreCompileInputs.cache
+C:\DocGhiFile\DocGhiFileCSV\DocGhiFileCSV\bin\Debug\data_clean.csv
+C:\DocGhiFile\DocGhiFileCSV\DocGhiFileCSV\bin\Debug\DocGhiFileCSV.exe.config
+C:\DocGhiFile\DocGhiFileCSV\DocGhiFileCSV\bin\Debug\DocGhiFileCSV.exe
+C:\DocGhiFile\DocGhiFileCSV\DocGhiFileCSV\bin\Debug\DocGhiFileCSV.pdb
+C:\DocGhiFile\DocGhiFileCSV\DocGhiFileCSV\obj\Debug\DocGhiFileCSV.exe
+C:\DocGhiFile\DocGhiFileCSV\DocGhiFileCSV\obj\Debug\DocGhiFileCSV.pdb
+C:\DocGhiFile\DocGhiFileCSV\DocGhiFileCSV\obj\Debug\DocGhiFileCSV.exe.config
+D:\DocGhiFile\DocGhiFile\DocGhiFileCSV\DocGhiFileCSV\bin\Debug\DocGhiFileCSV.exe.config
+D:\DocGhiFile\DocGhiFile\DocGhiFileCSV\DocGhiFileCSV\bin\Debug\DocGhiFileCSV.exe
+D:\DocGhiFile\DocGhiFile\DocGhiFileCSV\DocGhiFileCSV\bin\Debug\DocGhiFileCSV.pdb
+D:\DocGhiFile\DocGhiFile\DocGhiFileCSV\DocGhiFileCSV\obj\Debug\DocGhiFileCSV.csproj.AssemblyReference.cache
+D:\DocGhiFile\DocGhiFile\DocGhiFileCSV\DocGhiFileCSV\obj\Debug\DocGhiFileCSV.exe.config
+D:\DocGhiFile\DocGhiFile\DocGhiFileCSV\DocGhiFileCSV\obj\Debug\DocGhiFileCSV.Form1.resources
+D:\DocGhiFile\DocGhiFile\DocGhiFileCSV\DocGhiFileCSV\obj\Debug\DocGhiFileCSV.Properties.Resources.resources
+D:\DocGhiFile\DocGhiFile\DocGhiFileCSV\DocGhiFileCSV\obj\Debug\DocGhiFileCSV.csproj.GenerateResource.cache
+D:\DocGhiFile\DocGhiFile\DocGhiFileCSV\DocGhiFileCSV\obj\Debug\DocGhiFileCSV.csproj.CoreCompileInputs.cache
+D:\DocGhiFile\DocGhiFile\DocGhiFileCSV\DocGhiFileCSV\obj\Debug\DocGhiFileCSV.exe
+D:\DocGhiFile\DocGhiFile\DocGhiFileCSV\DocGhiFileCSV\obj\Debug\DocGhiFileCSV.pdb
+D:\DocGhiFile\DocGhiFile\DocGhiFileCSV\DocGhiFileCSV\bin\Debug\Credit card transactions - India - Simple.csv
