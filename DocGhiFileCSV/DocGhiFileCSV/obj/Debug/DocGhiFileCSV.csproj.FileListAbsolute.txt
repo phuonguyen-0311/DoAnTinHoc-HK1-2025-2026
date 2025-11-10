@@ -1,0 +1,9 @@
+D:\DocGhiFile\DocGhiFileCSV\DocGhiFileCSV\bin\Debug\data_clean.csv
+D:\DocGhiFile\DocGhiFileCSV\DocGhiFileCSV\bin\Debug\DocGhiFileCSV.exe.config
+D:\DocGhiFile\DocGhiFileCSV\DocGhiFileCSV\bin\Debug\DocGhiFileCSV.exe
+D:\DocGhiFile\DocGhiFileCSV\DocGhiFileCSV\bin\Debug\DocGhiFileCSV.pdb
+D:\DocGhiFile\DocGhiFileCSV\DocGhiFileCSV\obj\Debug\DocGhiFileCSV.csproj.AssemblyReference.cache
+D:\DocGhiFile\DocGhiFileCSV\DocGhiFileCSV\obj\Debug\DocGhiFileCSV.csproj.CoreCompileInputs.cache
+D:\DocGhiFile\DocGhiFileCSV\DocGhiFileCSV\obj\Debug\DocGhiFileCSV.exe
+D:\DocGhiFile\DocGhiFileCSV\DocGhiFileCSV\obj\Debug\DocGhiFileCSV.pdb
+D:\DocGhiFile\DocGhiFileCSV\DocGhiFileCSV\obj\Debug\DocGhiFileCSV.exe.config
