@@ -1,0 +1,12 @@
+D:\DoAnTinHoc\DoAnTinHoc\DOAN\DOAN\bin\Debug\Credit card transactions - India - Simple.csv
+D:\DoAnTinHoc\DoAnTinHoc\DOAN\DOAN\bin\Debug\DocGhiFileCSV.exe.config
+D:\DoAnTinHoc\DoAnTinHoc\DOAN\DOAN\bin\Debug\DocGhiFileCSV.exe
+D:\DoAnTinHoc\DoAnTinHoc\DOAN\DOAN\bin\Debug\DocGhiFileCSV.pdb
+D:\DoAnTinHoc\DoAnTinHoc\DOAN\DOAN\obj\Debug\DOAN.csproj.AssemblyReference.cache
+D:\DoAnTinHoc\DoAnTinHoc\DOAN\DOAN\obj\Debug\DocGhiFileCSV.exe.config
+D:\DoAnTinHoc\DoAnTinHoc\DOAN\DOAN\obj\Debug\DocGhiFileCSV.Form1.resources
+D:\DoAnTinHoc\DoAnTinHoc\DOAN\DOAN\obj\Debug\DocGhiFileCSV.Properties.Resources.resources
+D:\DoAnTinHoc\DoAnTinHoc\DOAN\DOAN\obj\Debug\DOAN.csproj.GenerateResource.cache
+D:\DoAnTinHoc\DoAnTinHoc\DOAN\DOAN\obj\Debug\DOAN.csproj.CoreCompileInputs.cache
+D:\DoAnTinHoc\DoAnTinHoc\DOAN\DOAN\obj\Debug\DocGhiFileCSV.exe
+D:\DoAnTinHoc\DoAnTinHoc\DOAN\DOAN\obj\Debug\DocGhiFileCSV.pdb
