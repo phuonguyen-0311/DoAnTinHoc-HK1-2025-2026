@@ -4,7 +4,6 @@ using System.ComponentModel.Design.Serialization;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.Windows.Forms;
 
 namespace DocGhiFileCSV
 {
@@ -46,7 +45,7 @@ namespace DocGhiFileCSV
         {
             this.m_key = 0;
             this.m_rowData = null;
-            this.m_height = 0;
+            this.m_height = 0; 
             this.m_left = null;
             this.m_right = null;
         }
@@ -54,7 +53,7 @@ namespace DocGhiFileCSV
         {
             this.m_key = d;
             this.m_rowData = data;
-            this.m_height = 1; 
+            this.m_height = 1; // Nút mới là lá, cao 1
             this.m_left = null;
             this.m_right = null;
         }
@@ -74,7 +73,7 @@ namespace DocGhiFileCSV
             return N.Height;
         }
         public int GetTreeHeight()
-        {
+        {          
             return GetHeight(root);
         }
         private int Max(int a, int b)
@@ -158,27 +157,6 @@ namespace DocGhiFileCSV
                 InOrder(node.Right, sortedList);
             }
         }
-        public List<List<int>> GetNodesByLevel()
-        {
-            List<List<int>> allLevels = new List<List<int>>();
-            if (root == null) return allLevels;
-            Queue<AVLNode> queue = new Queue<AVLNode>();
-            queue.Enqueue(root);
-            while (queue.Count > 0)
-            {
-                List<int> currentLevelList = new List<int>();
-                int levelSize = queue.Count;
-                for (int i = 0; i < levelSize; i++)
-                {
-                    AVLNode currentNode = queue.Dequeue();
-                    currentLevelList.Add(currentNode.Key);
-                    if (currentNode.Left != null) queue.Enqueue(currentNode.Left);
-                    if (currentNode.Right != null) queue.Enqueue(currentNode.Right);
-                }
-                allLevels.Add(currentLevelList);
-            }
-            return allLevels;
-        }
         //Ham dem tong so nut tren cay
         private int CountTotalNodesRecursive(AVLNode node)
         {
@@ -201,12 +179,12 @@ namespace DocGhiFileCSV
         }
         public int CountLeafNodes()
         {
-            return CountLeafNodesRecursive(root);
+            return CountLeafNodesRecursive(root);   
         }
         //Ham dem so nut cay con trai
         public int CountNodesInLeftSubtree()
         {
-            if (root == null)
+            if(root == null)
                 return 0;
             return CountTotalNodesRecursive(root.Left);
         }
@@ -217,42 +195,5 @@ namespace DocGhiFileCSV
                 return 0;
             return CountTotalNodesRecursive(root.Right);
         }
-        public string[] Find(int key)
-        {
-            return FindRecursive(root, key);
-        }
-        private string[] FindRecursive(AVLNode node, int key)
-        {
-            if (node == null) return null;
-            if (key < node.Key) return FindRecursive(node.Left, key);
-            else if (key > node.Key) return FindRecursive(node.Right, key);
-            else return node.RowData;
-        }
-        public void PopulateTreeView(TreeView treeViewControl)
-        {
-            treeViewControl.Nodes.Clear();
-            if (root != null)
-            {
-                var rootTreeNode = new TreeNode(root.Key.ToString());
-                treeViewControl.Nodes.Add(rootTreeNode);
-                PopulateTreeViewRecursive(root, rootTreeNode);
-            }
-        }
-        private void PopulateTreeViewRecursive(AVLNode avlNode, TreeNode treeNode)
-        {
-            if (avlNode.Left != null)
-            {
-                var leftTreeNode = new TreeNode(avlNode.Left.Key.ToString());
-                treeNode.Nodes.Add(leftTreeNode);
-                PopulateTreeViewRecursive(avlNode.Left, leftTreeNode);
-            }
-            if (avlNode.Right != null)
-            {
-                var rightTreeNode = new TreeNode(avlNode.Right.Key.ToString());
-                treeNode.Nodes.Add(rightTreeNode);
-                PopulateTreeViewRecursive(avlNode.Right, rightTreeNode);
-            }
-        }
-
     }
 }
