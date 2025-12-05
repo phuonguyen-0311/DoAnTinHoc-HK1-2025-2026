@@ -52,8 +52,7 @@ namespace DocGhiFileCSV
                             rows.Add(values);
                         }
                     }
-                    
-                    MessageBox.Show("Đọc tệp " + filePath + " thành công!", "THÀNH CÔNG");
+                  //  MessageBox.Show($"Đọc tệp '{filePath}' thành công", "Thành công"); 
                 }
                 else
                 {
@@ -66,37 +65,37 @@ namespace DocGhiFileCSV
             }
             return rows;
         }
-        public static void WriteCsvFile(string filePath, List<string[]> data)
-        {
-            try
-            {
-                List<string> lines = new List<string>();
+        //public static void WriteCsvFile(string filePath, List<string[]> data)
+        //{
+        //    try
+        //    {
+        //        List<string> lines = new List<string>();
 
-                foreach (string[] row in data)
-                {
-                    for (int i = 0; i < row.Length; i++)
-                    {
+        //        foreach (string[] row in data)
+        //        {
+        //            for (int i = 0; i < row.Length; i++)
+        //            {
                        
-                        if (row[i].Contains(","))
-                        {
-                            row[i] = $"\"{row[i]}\"";
-                        }
-                    }
+        //                if (row[i].Contains(","))
+        //                {
+        //                    row[i] = $"\"{row[i]}\"";
+        //                }
+        //            }
                     
-                    string line = string.Join(",", row);
-                    lines.Add(line);
-                }
+        //            string line = string.Join(",", row);
+        //            lines.Add(line);
+        //        }
 
                
-                File.WriteAllLines(filePath, lines);
+        //        File.WriteAllLines(filePath, lines);
 
-                MessageBox.Show($"Đã ghi file '{filePath}' thành công!", "Thành công");
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show($"Đã xảy ra lỗi khi GHI tệp: {ex.Message}", "Lỗi nghiêm trọng");
-            }
-        }
+        //        MessageBox.Show($"Đã ghi file '{filePath}' thành công!", "Thành công");
+        //    }
+        //    catch (Exception ex)
+        //    {
+        //        MessageBox.Show($"Đã xảy ra lỗi khi GHI tệp: {ex.Message}", "Lỗi nghiêm trọng");
+        //    }
+        //}
 
     }
 }
