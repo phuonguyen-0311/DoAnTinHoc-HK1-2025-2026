@@ -1,0 +1,48 @@
+D:\DoAnTinHoc\DoAnTinHoc\DOAN\DOAN\bin\Debug\Credit card transactions - India - Simple.csv
+D:\DoAnTinHoc\DoAnTinHoc\DOAN\DOAN\bin\Debug\DocGhiFileCSV.exe.config
+D:\DoAnTinHoc\DoAnTinHoc\DOAN\DOAN\bin\Debug\DocGhiFileCSV.exe
+D:\DoAnTinHoc\DoAnTinHoc\DOAN\DOAN\bin\Debug\DocGhiFileCSV.pdb
+D:\DoAnTinHoc\DoAnTinHoc\DOAN\DOAN\obj\Debug\DOAN.csproj.AssemblyReference.cache
+D:\DoAnTinHoc\DoAnTinHoc\DOAN\DOAN\obj\Debug\DocGhiFileCSV.exe.config
+D:\DoAnTinHoc\DoAnTinHoc\DOAN\DOAN\obj\Debug\DocGhiFileCSV.Form1.resources
+D:\DoAnTinHoc\DoAnTinHoc\DOAN\DOAN\obj\Debug\DocGhiFileCSV.Properties.Resources.resources
+D:\DoAnTinHoc\DoAnTinHoc\DOAN\DOAN\obj\Debug\DOAN.csproj.GenerateResource.cache
+D:\DoAnTinHoc\DoAnTinHoc\DOAN\DOAN\obj\Debug\DOAN.csproj.CoreCompileInputs.cache
+D:\DoAnTinHoc\DoAnTinHoc\DOAN\DOAN\obj\Debug\DocGhiFileCSV.exe
+D:\DoAnTinHoc\DoAnTinHoc\DOAN\DOAN\obj\Debug\DocGhiFileCSV.pdb
+D:\DoAnTinHoc\DoAnTinHoc\BaoCao_Tuan4\DOAN\DOAN\bin\Debug\Credit card transactions - India - Simple.csv
+D:\DoAnTinHoc\DoAnTinHoc\BaoCao_Tuan4\DOAN\DOAN\bin\Debug\DocGhiFileCSV.exe.config
+D:\DoAnTinHoc\DoAnTinHoc\BaoCao_Tuan4\DOAN\DOAN\bin\Debug\DocGhiFileCSV.exe
+D:\DoAnTinHoc\DoAnTinHoc\BaoCao_Tuan4\DOAN\DOAN\bin\Debug\DocGhiFileCSV.pdb
+D:\DoAnTinHoc\DoAnTinHoc\BaoCao_Tuan4\DOAN\DOAN\obj\Debug\DOAN.csproj.AssemblyReference.cache
+D:\DoAnTinHoc\DoAnTinHoc\BaoCao_Tuan4\DOAN\DOAN\obj\Debug\DocGhiFileCSV.exe.config
+D:\DoAnTinHoc\DoAnTinHoc\BaoCao_Tuan4\DOAN\DOAN\obj\Debug\DocGhiFileCSV.Form1.resources
+D:\DoAnTinHoc\DoAnTinHoc\BaoCao_Tuan4\DOAN\DOAN\obj\Debug\DocGhiFileCSV.Properties.Resources.resources
+D:\DoAnTinHoc\DoAnTinHoc\BaoCao_Tuan4\DOAN\DOAN\obj\Debug\DOAN.csproj.GenerateResource.cache
+D:\DoAnTinHoc\DoAnTinHoc\BaoCao_Tuan4\DOAN\DOAN\obj\Debug\DOAN.csproj.CoreCompileInputs.cache
+D:\DoAnTinHoc\DoAnTinHoc\BaoCao_Tuan4\DOAN\DOAN\obj\Debug\DocGhiFileCSV.exe
+D:\DoAnTinHoc\DoAnTinHoc\BaoCao_Tuan4\DOAN\DOAN\obj\Debug\DocGhiFileCSV.pdb
+D:\DoAnTinHoc\DoAnTinHoc\CayTinhKhiet\DOAN\DOAN\bin\Debug\Credit card transactions - India - Simple.csv
+D:\DoAnTinHoc\DoAnTinHoc\CayTinhKhiet\DOAN\DOAN\bin\Debug\DocGhiFileCSV.exe.config
+D:\DoAnTinHoc\DoAnTinHoc\CayTinhKhiet\DOAN\DOAN\bin\Debug\DocGhiFileCSV.exe
+D:\DoAnTinHoc\DoAnTinHoc\CayTinhKhiet\DOAN\DOAN\bin\Debug\DocGhiFileCSV.pdb
+D:\DoAnTinHoc\DoAnTinHoc\CayTinhKhiet\DOAN\DOAN\obj\Debug\DOAN.csproj.AssemblyReference.cache
+D:\DoAnTinHoc\DoAnTinHoc\CayTinhKhiet\DOAN\DOAN\obj\Debug\DocGhiFileCSV.exe.config
+D:\DoAnTinHoc\DoAnTinHoc\CayTinhKhiet\DOAN\DOAN\obj\Debug\DocGhiFileCSV.Form1.resources
+D:\DoAnTinHoc\DoAnTinHoc\CayTinhKhiet\DOAN\DOAN\obj\Debug\DocGhiFileCSV.Properties.Resources.resources
+D:\DoAnTinHoc\DoAnTinHoc\CayTinhKhiet\DOAN\DOAN\obj\Debug\DOAN.csproj.GenerateResource.cache
+D:\DoAnTinHoc\DoAnTinHoc\CayTinhKhiet\DOAN\DOAN\obj\Debug\DOAN.csproj.CoreCompileInputs.cache
+D:\DoAnTinHoc\DoAnTinHoc\CayTinhKhiet\DOAN\DOAN\obj\Debug\DocGhiFileCSV.exe
+D:\DoAnTinHoc\DoAnTinHoc\CayTinhKhiet\DOAN\DOAN\obj\Debug\DocGhiFileCSV.pdb
+D:\DoAnTinHocC\DoAnTinHoc\CayTinhKhiet\DOAN\DOAN\bin\Debug\Credit card transactions - India - Simple.csv
+D:\DoAnTinHocC\DoAnTinHoc\CayTinhKhiet\DOAN\DOAN\bin\Debug\DocGhiFileCSV.exe.config
+D:\DoAnTinHocC\DoAnTinHoc\CayTinhKhiet\DOAN\DOAN\bin\Debug\DocGhiFileCSV.exe
+D:\DoAnTinHocC\DoAnTinHoc\CayTinhKhiet\DOAN\DOAN\bin\Debug\DocGhiFileCSV.pdb
+D:\DoAnTinHocC\DoAnTinHoc\CayTinhKhiet\DOAN\DOAN\obj\Debug\DOAN.csproj.AssemblyReference.cache
+D:\DoAnTinHocC\DoAnTinHoc\CayTinhKhiet\DOAN\DOAN\obj\Debug\DocGhiFileCSV.exe.config
+D:\DoAnTinHocC\DoAnTinHoc\CayTinhKhiet\DOAN\DOAN\obj\Debug\DocGhiFileCSV.Form1.resources
+D:\DoAnTinHocC\DoAnTinHoc\CayTinhKhiet\DOAN\DOAN\obj\Debug\DocGhiFileCSV.Properties.Resources.resources
+D:\DoAnTinHocC\DoAnTinHoc\CayTinhKhiet\DOAN\DOAN\obj\Debug\DOAN.csproj.GenerateResource.cache
+D:\DoAnTinHocC\DoAnTinHoc\CayTinhKhiet\DOAN\DOAN\obj\Debug\DOAN.csproj.CoreCompileInputs.cache
+D:\DoAnTinHocC\DoAnTinHoc\CayTinhKhiet\DOAN\DOAN\obj\Debug\DocGhiFileCSV.exe
+D:\DoAnTinHocC\DoAnTinHoc\CayTinhKhiet\DOAN\DOAN\obj\Debug\DocGhiFileCSV.pdb
